@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "ngdbinh2B",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "ngdbinh2B",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "ndb2012-3636.aternos.me",
+    "port": 15885,
     "version": "",
     "try-creative": false
   },
